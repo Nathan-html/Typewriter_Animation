@@ -1,2 +1,2 @@
 # Typewriter_Animation
-Effet machine a écrire en CSS
+https://nathan-html.github.io/Typewriter_Animation/
